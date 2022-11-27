@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "js-hcl-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
